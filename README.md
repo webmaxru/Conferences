@@ -27,7 +27,7 @@ This file contains a list of conferences and their talk submit dates.
 * [Angular Camp](https://angularcamp.org/) July 6-7th 2017
 * [Oredev](http://oredev.org/)
 * [ngConf](https://www.ng-conf.org/)
-* [ngVikings](https://ngvikings.org/)
+* [ngVikings](https://ngvikings.org/) Mar 1-2nd 2018, Helsinki, Finland
 * [ngCruise](https://ngcruise.com/)
 
 
@@ -59,6 +59,7 @@ This file contains a list of conferences and their talk submit dates.
 #### Mobile:
 
 * [Oredev](http://oredev.org/)
+* [Mobile Era](https://mobileera.rocks/) Oct 5-6th 2017, Oslo, Norway
 
 #### Internet of Things:
 
@@ -77,6 +78,7 @@ This file contains a list of conferences and their talk submit dates.
 * [JSConf US](http://lastcall.jsconf.us/call-for-speakers.html)
 * [JSConf EU](http://2015.jsconf.eu/)
 * [Developer Week](http://www.developerweek.com/)
+* [Mobile Era](https://mobileera.rocks/) Oct 5-6th 2017, Oslo, Norway
 
 #### How to submit your event:
 
